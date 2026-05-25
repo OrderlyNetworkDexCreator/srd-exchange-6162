@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "All in One Dex!",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Rewards,Swap,Campaigns",
+  "VITE_ENABLED_MENUS": "Portfolio,Swap,Trading,Rewards",
   "VITE_CUSTOM_MENUS": "Fiat, https://www.srd.exchange/fiat",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
