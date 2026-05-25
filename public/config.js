@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/SrdExchange",
   "VITE_SEO_SITE_NAME": "Srd Exchange",
   "VITE_SEO_SITE_DESCRIPTION": "All in One Dex!",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/srd-exchange-6162/",
+  "VITE_SEO_SITE_URL": "https://trade.srd.exchange",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@SrdExchange",
